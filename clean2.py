@@ -1,5 +1,5 @@
 
-
+#edit the list to whatever you would like
 a = [30, 34, 75, 27, 8, 58, 10, 1, 59, 2322]
 def dropsort(list):
     print list
